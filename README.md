@@ -1,2 +1,2 @@
 # FFTLED
-Arduino based FFT music visualizer on addressable light strips
+This project is a work in progress.
